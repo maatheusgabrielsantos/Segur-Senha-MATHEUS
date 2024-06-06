@@ -41,7 +41,7 @@ body{
     margin-top: 80px;
 }
 
-#campo-sneha{
+#campo-senha{
     background-color: var(--fundo-senha);
     border: none;
     color: var(--branco);
